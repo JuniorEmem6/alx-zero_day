@@ -1,1 +1,1 @@
-First directory in project
+Updated directory in project
